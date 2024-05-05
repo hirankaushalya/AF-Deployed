@@ -1,0 +1,15 @@
+.apod-title,
+.apod-details {
+  font-family: inherit;
+  font-weight: inherit;
+}
+
+.apod-image {
+  max-width: 100%;
+}
+
+.logout-btn {
+  font-family: inherit;
+  font-weight: inherit;
+  background-color: #61dafb;
+}
